@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main -  hello
+*main - hello
 *Return: Always here
 */
 int main(void)
