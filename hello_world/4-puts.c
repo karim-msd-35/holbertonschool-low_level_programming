@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-*salut
-*
-*hello
+*main -  hello
+*Return: Always here
 */
 int main(void)
 {
