@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main -entry
+* main - entry
 *
 *
-* return operation was good
+* Return: operation was good
 */
 
 int main()
@@ -14,6 +14,5 @@ int main()
     printf("Taille d'un long : %lu octets\n", sizeof(long));
     printf("Taille d'un long long : %lu octets\n", sizeof(long long));
     printf("Taille d'un float : %lu octets\n", sizeof(float));
-    printf("Taille d'un double : %lu octets\n", sizeof(double));
-    return 0;
+    return (0);
 }
