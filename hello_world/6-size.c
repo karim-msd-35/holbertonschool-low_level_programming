@@ -8,7 +8,7 @@
 */
 
 int main()
-x{
+{
     printf("Taille d'un char : %zu octets\n", sizeof(char));
     printf("Taille d'un int : %zu octets\n", sizeof(int));
     printf("Taille d'un long : %zu octets\n", sizeof(long));
