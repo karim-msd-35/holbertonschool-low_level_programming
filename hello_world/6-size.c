@@ -1,10 +1,11 @@
 #include <stdio.h>
-/*
+
+/**
 * main -entry
 *
 *
 * return operation was good
-/*
+*/
 
 int main() {
     printf("Taille d'un char : %zu octets\n", sizeof(char));
