@@ -13,5 +13,6 @@ int main(void)
 
 {	puchar ('number');
 }
-	puchar ('\n')
+	puchar ('\n');
+	return (0);
 }
