@@ -1,19 +1,19 @@
 #include <stdio.h>
 /**
-* main - 0
-* hell yeah
-*Return: yes
+* main - hello
+*
+*Return: (O) succes
 */
 
 int main(void)
 {
-	int number;
+	char number;
 
 	for (number = 0; number <= 9; number++)
-
 {
-	putchar(number);
+	printf ("%d", number);
 }
-	putchar('\n');
+	putchar ('\n');
 	return (0);
 }
+
